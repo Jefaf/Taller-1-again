@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fajit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fajit\\.nuget\\packages"
+    ]
+  }
+}
